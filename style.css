@@ -8,7 +8,7 @@ body {
    
 .fundo{
     background-color: whitesmoke;}
-    
+
     h1{
 
         font-family: 'Brush script MT', cursive;
@@ -16,3 +16,9 @@ body {
         color: tomato;
         margin-left: 325px;} 
       
+        h3 {
+ 
+            font-size: 40px;
+            color: yellowgreen;
+            margin-left: 425px;}
+          
