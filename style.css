@@ -32,4 +32,21 @@ body {
               
                 .estrofe1 {
                   font-family: 'Tiro Devanagari Sanskrit', serif; }
-              
+                  .estrofe2{
+                    font-family: 'Brush script MT', cursive;
+                  font-size: 20px;
+                }
+            
+                .estrofe3{
+                    font-family: arial, helvetica, sans-serif;
+                    
+                }
+            
+                .estrofe4{
+                    font-family: "Lato", sans-serif;
+                    font-style: italic;
+                }
+            
+                .estrofe5{
+                    font-family: 'Font Awesome 5 Brands';
+            }
