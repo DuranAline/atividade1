@@ -1,0 +1,74 @@
+html, 
+body {
+    font-family: arial, helvetica, sans-serif;
+    margin-left: 15vh;
+    margin-right: 14vh;
+    background-color: linen;}
+
+   nav ul /* ajusta todo o conteudo da Ul para ficar dentro da vorda criada e centralizar o conteudo*/ {
+  text-align:  center;
+  width: 1065px;
+  margin: 0 ;
+  padding: 8px;
+  border:  2px solid tomato;
+  border-radius: 30px;
+}
+nav li/* ajusta o menu para ser na horizontal alem da distancia entre as palavras*/ {
+  display: inline;
+  padding: 80px;
+}
+nav a /* formata as opcoes do menu como tamanho, cor, estilo da letradentro do menu*/ {
+  text-transform: uppercase;
+  font-family: 'Tiro Devanagari Sanskrit', serif;
+  color: black;
+  font-weight: bold;
+  font-size: 14px;
+  text-decoration: none;
+
+}
+.icon-center {
+  width: 1085px;
+  border-radius: 30px;
+  margin: 0 ;
+  padding: 0;
+  box-sizing: border-box;
+  border:  2px solid tomato;
+}
+.fundo{
+    background-color: whitesmoke;
+    width: 1085px;}
+   
+
+
+
+h1{
+
+  font-family: 'Brush script MT', cursive;
+  font-size: 50px;
+  color: tomato;
+  margin-left: 325px;} 
+
+
+h3 {
+ 
+  font-size: 40px;
+  color: yellowgreen;
+  margin-left: 425px;}
+
+.icon-right {
+    
+  margin-right:2%;
+  float:right; 
+  height:400px;
+  margin-left:2%;
+}
+
+.estrofe1 {
+    
+    font-family: 'Tiro Devanagari Sanskrit', serif; }
+
+.estrofe2{
+    
+  font-family: 'Brush script MT', cursive;
+  font-size: 20px;
+    }
